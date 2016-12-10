@@ -1,7 +1,7 @@
 # Add header to chromosome gene data
 # Author: Alexey "bash man" Shiklomanov
-# Last modified: Fri Dec 9, 2016
-# For questions, contact <ashiklom@bu.edu>
+# Last modified: Sat Dec 10, 2016
+# For questions, contact <alexey.shiklomanov@gmail.com>
 
 echo "Starting combining script"
 for file in "$@"
